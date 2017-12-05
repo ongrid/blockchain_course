@@ -5,7 +5,7 @@
 | [Петр Петров](https://www.facebook.com/kirill.varlamov.12) | МП-23 |
 | [Иванов Иван](https://www.facebook.com/kirill.varlamov.12) | МП-45 |
 | [Всеволод Михалевский](https://www.facebook.com/vs.mix.5) | МП-128 |
-| [Кузнецов Григорий](htps://vk.com/ciscomiet) | ТКС |
-| [Бахтин Александр](htps://vk.com/ciscomiet) | ТКС |
-| [Иванин Александр](htps://vk.com/ciscomiet) | ТКС-12 |
+| [Кузнецов Григорий](https://vk.com/ciscomiet) | ТКС |
+| [Бахтин Александр](https://vk.com/ciscomiet) | ТКС |
+| [Иванин Александр](https://vk.com/ciscomiet) | ТКС-12 |
 Чтобы попасть в этот список, необходимо выполнить [тестовое задание](Vpiska.md).
