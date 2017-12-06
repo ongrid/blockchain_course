@@ -7,6 +7,7 @@
 | [Бахтин Александр](https://vk.com/ciscomiet) | ТКС |
 | [Иванин Александр](https://vk.com/ciscomiet) | ТКС-12 |
 | [Голованов Роман](https://github.com/rgolovanov) | ВМ-1 |
+| [Образцов Алексей](https://vk.com/obr_alexey)| МП-49 |
 | [Несытов Роман](https://vk.com/id91501563) | ВТ-11 |
 | [Шомрин Дмитрий](https://vk.com/id89419015) | МП-48 |
 | [Илья Никоноров](https://vk.com/id90625103) | МП-39 |
