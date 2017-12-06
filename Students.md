@@ -6,5 +6,6 @@
 | [Кузнецов Григорий](https://vk.com/ciscomiet) | ТКС |
 | [Бахтин Александр](https://vk.com/ciscomiet) | ТКС |
 | [Иванин Александр](https://vk.com/ciscomiet) | ТКС-12 |
+| [Голованов Роман](https://github.com/rgolovanov) | ВМ-1 |
 
 Чтобы попасть в этот список, необходимо выполнить [тестовое задание](Vpiska.md).
