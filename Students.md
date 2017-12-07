@@ -21,5 +21,6 @@
 | [Адамович Кирилл](https://vk.com/kirzik123) | МП-49 |
 | [Мигунов Никита](https://vk.com/kagestonedragon) | МП-15А |
 | [Алексютенко Денис](https://vk.com/dyaleksyutenko) | Python |
+| [Никитин Павел](https://vk.com/ggn1k) | МП-48 |
 
 Чтобы попасть в этот список, необходимо выполнить [тестовое задание](Vpiska.md).
